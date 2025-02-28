@@ -1,22 +1,21 @@
 # **Product Sales Analysis**
 
-Welcome to the **Product Sales Analysis** repository! 🚀 This project focuses on analyzing **Product Sales** data using **Microsoft Excel**. The dataset includes various factors related to customers, sales, and profitability.
+Welcome to the **Product Sales Analysis** repository! 🚀 This project focuses on analyzing **Product_Sales** data using **Excel**. The dataset includes various factors related to customers and sales.
 
 ## **Project Overview**
-This project is designed to help users understand data effectively. By utilizing different **Excel formulas and tools**, we enhance the user experience and simplify data analysis.
+This project is designed to help users understand data effectively. By utilizing different **Excel formulas**, we enhance the user experience and simplify data analysis.
 
-The project covers all essential **data analysis** topics, including:
+This project covers all essential **data analysis** topics, including:
 - **Data Cleaning & Preprocessing**
 - **Data Transformation**
 - **Pivot Tables & Charts**
 - **Sales & Profit Analysis**
 - **Customer & Sales Trends**
-- **Redesign & Visualization**
 
 ---
 
 ## **1️⃣ Data Cleaning & Preprocessing**
-The dataset underwent thorough cleaning and preprocessing within **Excel** to ensure high-quality data. 
+The dataset underwent thorough cleaning and preprocessing within **Excel** to ensure high-quality of data. 
 
 ### **Key Questions Addressed:**
 ✅ How to handle missing values in Excel?  
@@ -25,7 +24,7 @@ The dataset underwent thorough cleaning and preprocessing within **Excel** to en
 ✅ Remove **duplicate records** to maintain data integrity?  
 
 ### **Methods Used:**
-- **Excel Functions:** `IFERROR`, `ISBLANK`, `IF`, `TRIM`
+- **Excel Formula:** `IFERROR`, `ISBLANK`, `IF`, `TRIM`
 - **Tools:** `Sort & Filter`, `Remove Duplicates`
 
 ---
@@ -53,7 +52,7 @@ By leveraging **Excel Pivot Tables** and **Charts**, we gain insights into sales
 ---
 
 ## **3️⃣ Data Transformation**
-This section focuses on transforming raw data into meaningful insights, covering customer details, product details, and sales performance.
+This section focuses on transforming raw data into meaningful insights, covering customer details, product details, sales performance and many more.
 
 ### **Key Functions Used:**
 ✅ **`VLOOKUP`** – To find customer details.  
@@ -68,8 +67,6 @@ This section focuses on transforming raw data into meaningful insights, covering
 ---
 
 ## **📊 Dataset & Column Names**
-The dataset consists of multiple attributes related to **product sales**:
-
 - `Product_ID`
 - `Customer_ID`
 - `Date`
